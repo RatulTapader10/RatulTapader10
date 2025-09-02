@@ -1,3 +1,4 @@
+![logo](https://github.com/RatulTapader10/RatulTapader10/blob/main/1ef3ac8f-e68f-4905-b42d-dd436d360793.png)
 <h1 align="center">Hi 👋, I'm Ratul Tapader</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
